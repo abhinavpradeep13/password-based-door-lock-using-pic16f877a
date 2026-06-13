@@ -99,7 +99,7 @@ The project utilizes the **PIC16F877A**, an 8-bit RISC microcontroller featuring
 
 ## Circuit Diagram
 
-![Circuit Diagram](images/circuit_diagram.jpg)
+![Circuit Diagram](images/circuit.jpeg)
 
 > The figure above illustrates the hardware connections used to implement the password-based door lock system.
 
@@ -178,7 +178,7 @@ Password-Based-Door-Lock-using-PIC16F877A/
 
 Watch the project in action:
 
-▶️ **Project Demo:** *(Insert video link here)*
+[▶️ Watch the project demonstration](videos/demo.mp4)
 
 ---
 
